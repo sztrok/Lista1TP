@@ -1,0 +1,8 @@
+.idea
+*.iml
+*.jar
+*.txt
+*.class
+*.lst
+*.properties
+*.xml
