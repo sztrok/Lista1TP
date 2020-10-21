@@ -7,6 +7,7 @@ public class Hello {
         ENG anglia= new ENG();
         System.out.println(anglia.greeting());
         System.out.println(polska.greeting());
+        System.out.println("ej masz jakiś cynk?");
     }
 }
 
