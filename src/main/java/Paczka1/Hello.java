@@ -9,6 +9,8 @@ public class Hello {
         System.out.println(anglia.greeting());
         System.out.println(polska.greeting());
         System.out.println(hiszpania.greeting());
+        System.out.println("ej masz jakiś cynk?");
+        System.out.println("dawaj bo czeka już drink");
     }
 }
 
